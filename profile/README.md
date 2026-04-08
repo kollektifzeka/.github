@@ -2,17 +2,13 @@
 
 **Ankara-based tech community focused on AI, open-source, and collective intelligence.**
 
-🇹🇷 *Yapay zeka, açık kaynak ve kolektif zeka odaklı Ankara merkezli teknoloji topluluğu.*
-
 ---
 
-## About Us | Hakkımızda
+## About Us
 
 We are a community of developers, researchers, and tech enthusiasts based in Ankara, Turkey. Since August 2025, we've been organizing in-person meetups and events to share knowledge, build together, and grow the local tech ecosystem.
 
-Ankara merkezli geliştiriciler, araştırmacılar ve teknoloji meraklılarından oluşan bir topluluguz. Ağustos 2025'ten bu yana bilgi paylaşmak, birlikte üretmek ve yerel teknoloji ekosistemini büyütmek için yüz yüze etkinlikler düzenliyoruz.
-
-## Upcoming Events | Yaklaşan Etkinlikler
+## Upcoming Events
 
 | Date | Event | Location |
 |------|-------|----------|
@@ -20,13 +16,44 @@ Ankara merkezli geliştiriciler, araştırmacılar ve teknoloji meraklılarında
 
 Check out our [events repo](https://github.com/kollektifzeka/events) for details.
 
-## Get Involved | Katılın
+## Get Involved
 
 - Follow our events and join the community
 - Contribute to our open-source projects
 - Reach out if you'd like to speak at or sponsor an event
 
-## Team | Ekip
+## Team
 
-- **Mustafa Alkan** - Community Lead | Topluluk Lideri
-- **Murat Aslan** - Organizer | Organizatör
+- **Mustafa Alkan** - Community Lead
+- **Murat Aslan** - Organizer
+
+---
+
+# Kollektif Zeka
+
+**Yapay zeka, acik kaynak ve kolektif zeka odakli Ankara merkezli teknoloji toplulugu.**
+
+---
+
+## Hakkimizda
+
+Ankara merkezli gelisiriciler, arastirmacilar ve teknoloji meraklilarindan olusan bir topluluguz. Agustos 2025'ten bu yana bilgi paylasmak, birlikte uretmek ve yerel teknoloji ekosistemini buyutmek icin yuz yuze etkinlikler duzenliyoruz.
+
+## Yaklasan Etkinlikler
+
+| Tarih | Etkinlik | Konum |
+|-------|----------|-------|
+| 25 Nisan 2026 | OpenClaw Ankara Meetup | Ankara, Turkiye |
+
+Detaylar icin [etkinlikler repomuza](https://github.com/kollektifzeka/events) goz atin.
+
+## Katilin
+
+- Etkinliklerimizi takip edin ve toplulugumuza katilin
+- Acik kaynak projelerimize katki saglayabilirsiniz
+- Konusmaci olmak veya sponsor olmak icin bizimle iletisime gecin
+
+## Ekip
+
+- **Mustafa Alkan** - Topluluk Lideri
+- **Murat Aslan** - Organizator
