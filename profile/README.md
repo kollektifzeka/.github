@@ -24,8 +24,8 @@ Check out our [events repo](https://github.com/kollektifzeka/events) for details
 
 ## Team
 
-- **Mustafa Alkan** - Community Lead
-- **Murat Aslan** - Organizer
+- **Mustafa Alkan** - Community Lead & Organizer
+- **Murat Aslan** - Speaker
 
 ---
 
@@ -55,5 +55,5 @@ Detaylar icin [etkinlikler repomuza](https://github.com/kollektifzeka/events) go
 
 ## Ekip
 
-- **Mustafa Alkan** - Topluluk Lideri
-- **Murat Aslan** - Organizator
+- **Mustafa Alkan** - Topluluk Lideri & Organizator
+- **Murat Aslan** - Konusmaci
