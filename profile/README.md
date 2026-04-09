@@ -18,6 +18,7 @@ Check out our [events repo](https://github.com/kollektifzeka/events) for details
 
 ## Get Involved
 
+- Visit our website: [kollektifzeka.com](https://kollektifzeka.com/)
 - Follow our events and join the community
 - Contribute to our open-source projects
 - Reach out if you'd like to speak at or sponsor an event
@@ -49,6 +50,7 @@ Detaylar icin [etkinlikler repomuza](https://github.com/kollektifzeka/events) go
 
 ## Katilin
 
+- Web sitemizi ziyaret edin: [kollektifzeka.com](https://kollektifzeka.com/)
 - Etkinliklerimizi takip edin ve toplulugumuza katilin
 - Acik kaynak projelerimize katki saglayabilirsiniz
 - Konusmaci olmak veya sponsor olmak icin bizimle iletisime gecin
